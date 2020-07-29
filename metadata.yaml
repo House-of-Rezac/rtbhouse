@@ -1,5 +1,5 @@
 homepage: "https://www.houseofrezac.com"
 documentation: "https://github.com/House-of-Rezac/rtbhouse"
 versions:
-  - sha: xxxxxxxxxxxxxxxxxxxxxxxxxx
+  - sha: 39d68c785f81f9971569718f1e454b0c9c763849
     changeNotes: Initial release.
