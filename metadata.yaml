@@ -1,0 +1,5 @@
+homepage: "https://www.houseofrezac.com"
+documentation: "https://github.com/House-of-Rezac/rtbhouse"
+versions:
+  - sha: xxxxxxxxxxxxxxxxxxxxxxxxxx
+    changeNotes: Initial release.
