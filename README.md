@@ -1,7 +1,7 @@
 # GTM template for RTB House
 A purpose of this template is to have just one GTM tag for RTB House on all pages.
 
-![alt text](https://github.com/House-of-Rezac/rtbhouse/blob/master/configuration.png?raw=true)
+![alt text](https://github.com/House-of-Rezac/rtbhouse/blob/master/configuration.PNG?raw=true)
 
 # Params
 ### Universal params
