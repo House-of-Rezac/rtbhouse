@@ -1,5 +1,11 @@
 homepage: "https://www.houseofrezac.com"
 documentation: "https://github.com/House-of-Rezac/rtbhouse"
 versions:
+  # Latest version
+  - sha: ab7ca6b184116f242f8cc8911e5c4880cf16bb1e
+    changeNotes: |2
+    Added referrer, location and timestamp params
+
+  # Older versions
   - sha: 39d68c785f81f9971569718f1e454b0c9c763849
     changeNotes: Initial release.
