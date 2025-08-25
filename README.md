@@ -1,3 +1,9 @@
+# ⚠️ DEPRECATED
+
+This repository is deprecated and no longer maintained. 
+
+**Alternative:** Please use official package instead.
+
 # GTM template for RTB House
 A purpose of this template is to have just one GTM tag for RTB House on all pages.
 
